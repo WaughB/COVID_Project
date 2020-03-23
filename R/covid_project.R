@@ -9,6 +9,8 @@ library(readr)
 library(readxl)
 library(tidyr)
 library(dplyr)
+library(stats)
+library(e1071)
 
 ##### Import the datasets. #####
 
@@ -125,5 +127,9 @@ temp3 <- merge(temp2, cocaine_report_2017, by = c("code", "country"))
 temp4 <- merge(temp3, smoking_report_2016, by = c("code", "country"))
 
 temp5 <- merge(temp4, opioid_report_2017, by = c("code", "country"))
+
+# TODO: Fix the prison report.
+# TODO: Add in age dataset. 
+temp6 <- merge(temp5,prison_report_2017_2, by = "country")
 
 final_train <- merge(test2, temp5, by = "country")
