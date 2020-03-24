@@ -1,0 +1,1666 @@
+country,measure,number_of_arrivals,median_time_in_port_days
+World,All ships,4112944,0.97
+World,Passenger ship,2227407,..
+World,Wet bulk,494120,0.94
+World,Container ship,454016,0.7
+World,Dry breakbulk,430344,1.11
+World,Dry bulk,259551,2.05
+World,Roll-on/ roll-off ship,187532,..
+World,Liquefied petroleum gas carriers,49357,1.02
+World,Liquefied natural gas carriers,10617,1.11
+Albania,All ships,2085,1.46
+Albania,Passenger ship,1252,..
+Albania,Wet bulk,85,1.85
+Albania,Container ship,148,0.86
+Albania,Dry breakbulk,482,2.03
+Albania,Dry bulk,52,1.99
+Albania,Roll-on/ roll-off ship,..,..
+Albania,Liquefied petroleum gas carriers,66,0.9
+Albania,Liquefied natural gas carriers,..,..
+Algeria,All ships,5284,2.43
+Algeria,Passenger ship,521,..
+Algeria,Wet bulk,781,1.54
+Algeria,Container ship,926,2.96
+Algeria,Dry breakbulk,1721,2.5
+Algeria,Dry bulk,645,6.85
+Algeria,Roll-on/ roll-off ship,232,..
+Algeria,Liquefied petroleum gas carriers,326,1.37
+Algeria,Liquefied natural gas carriers,132,1.07
+American Samoa,All ships,148,0.74
+American Samoa,Passenger ship,..,..
+American Samoa,Wet bulk,..,..
+American Samoa,Container ship,87,0.99
+American Samoa,Dry breakbulk,61,0.57
+American Samoa,Dry bulk,..,..
+American Samoa,Roll-on/ roll-off ship,..,..
+American Samoa,Liquefied petroleum gas carriers,..,..
+American Samoa,Liquefied natural gas carriers,..,..
+Angola,All ships,1685,1.87
+Angola,Passenger ship,..,..
+Angola,Wet bulk,485,1.28
+Angola,Container ship,435,1.79
+Angola,Dry breakbulk,397,2.06
+Angola,Dry bulk,53,8.56
+Angola,Roll-on/ roll-off ship,60,..
+Angola,Liquefied petroleum gas carriers,196,1.87
+Angola,Liquefied natural gas carriers,59,1.36
+Antigua and Barbuda,All ships,833,0.67
+Antigua and Barbuda,Passenger ship,377,..
+Antigua and Barbuda,Wet bulk,192,1.06
+Antigua and Barbuda,Container ship,..,..
+Antigua and Barbuda,Dry breakbulk,171,0.38
+Antigua and Barbuda,Dry bulk,..,..
+Antigua and Barbuda,Roll-on/ roll-off ship,93,..
+Antigua and Barbuda,Liquefied petroleum gas carriers,..,..
+Antigua and Barbuda,Liquefied natural gas carriers,..,..
+Argentina,All ships,12261,1.91
+Argentina,Passenger ship,3529,..
+Argentina,Wet bulk,3660,1.54
+Argentina,Container ship,1104,1.46
+Argentina,Dry breakbulk,776,1.18
+Argentina,Dry bulk,2793,3.29
+Argentina,Roll-on/ roll-off ship,277,..
+Argentina,Liquefied petroleum gas carriers,67,1.75
+Argentina,Liquefied natural gas carriers,55,1.52
+Aruba,All ships,770,0.74
+Aruba,Passenger ship,336,..
+Aruba,Wet bulk,109,1.18
+Aruba,Container ship,160,0.73
+Aruba,Dry breakbulk,121,0.4
+Aruba,Dry bulk,..,..
+Aruba,Roll-on/ roll-off ship,44,..
+Aruba,Liquefied petroleum gas carriers,..,..
+Aruba,Liquefied natural gas carriers,..,..
+Australia,All ships,62029,1.48
+Australia,Passenger ship,32246,..
+Australia,Wet bulk,3673,1.34
+Australia,Container ship,4425,1.2
+Australia,Dry breakbulk,2530,1.79
+Australia,Dry bulk,14690,1.65
+Australia,Roll-on/ roll-off ship,3052,..
+Australia,Liquefied petroleum gas carriers,360,0.9
+Australia,Liquefied natural gas carriers,1053,1.22
+Austria,All ships,1653,..
+Austria,Passenger ship,1653,..
+Austria,Wet bulk,..,..
+Austria,Container ship,..,..
+Austria,Dry breakbulk,..,..
+Austria,Dry bulk,..,..
+Austria,Roll-on/ roll-off ship,..,..
+Austria,Liquefied petroleum gas carriers,..,..
+Austria,Liquefied natural gas carriers,..,..
+Azerbaijan,All ships,2331,1.24
+Azerbaijan,Passenger ship,596,..
+Azerbaijan,Wet bulk,1107,1.18
+Azerbaijan,Container ship,..,..
+Azerbaijan,Dry breakbulk,406,3.04
+Azerbaijan,Dry bulk,..,..
+Azerbaijan,Roll-on/ roll-off ship,222,..
+Azerbaijan,Liquefied petroleum gas carriers,..,..
+Azerbaijan,Liquefied natural gas carriers,..,..
+Bahamas,All ships,5787,0.83
+Bahamas,Passenger ship,3326,..
+Bahamas,Wet bulk,463,1.88
+Bahamas,Container ship,958,0.8
+Bahamas,Dry breakbulk,548,0.32
+Bahamas,Dry bulk,93,1
+Bahamas,Roll-on/ roll-off ship,399,..
+Bahamas,Liquefied petroleum gas carriers,..,..
+Bahamas,Liquefied natural gas carriers,..,..
+Bahrain,All ships,1748,1.84
+Bahrain,Passenger ship,28,..
+Bahrain,Wet bulk,475,1.85
+Bahrain,Container ship,322,0.72
+Bahrain,Dry breakbulk,323,2.03
+Bahrain,Dry bulk,378,3.13
+Bahrain,Roll-on/ roll-off ship,211,..
+Bahrain,Liquefied petroleum gas carriers,11,2.3
+Bahrain,Liquefied natural gas carriers,..,..
+Bangladesh,All ships,2611,2.99
+Bangladesh,Passenger ship,..,..
+Bangladesh,Wet bulk,384,2.03
+Bangladesh,Container ship,1338,2.97
+Bangladesh,Dry breakbulk,475,3.11
+Bangladesh,Dry bulk,294,5.77
+Bangladesh,Roll-on/ roll-off ship,56,..
+Bangladesh,Liquefied petroleum gas carriers,64,1.05
+Bangladesh,Liquefied natural gas carriers,..,..
+Barbados,All ships,1149,0.56
+Barbados,Passenger ship,445,..
+Barbados,Wet bulk,145,1.08
+Barbados,Container ship,179,0.51
+Barbados,Dry breakbulk,328,0.54
+Barbados,Dry bulk,17,0.94
+Barbados,Roll-on/ roll-off ship,35,..
+Barbados,Liquefied petroleum gas carriers,..,..
+Barbados,Liquefied natural gas carriers,..,..
+Belgium,All ships,32377,1.27
+Belgium,Passenger ship,566,..
+Belgium,Wet bulk,11237,1.3
+Belgium,Container ship,5034,1.02
+Belgium,Dry breakbulk,6685,1.43
+Belgium,Dry bulk,968,3.88
+Belgium,Roll-on/ roll-off ship,6629,..
+Belgium,Liquefied petroleum gas carriers,1156,1.4
+Belgium,Liquefied natural gas carriers,102,1.18
+Belize,All ships,530,0.58
+Belize,Passenger ship,355,..
+Belize,Wet bulk,21,1.24
+Belize,Container ship,49,0.59
+Belize,Dry breakbulk,105,0.53
+Belize,Dry bulk,..,..
+Belize,Roll-on/ roll-off ship,..,..
+Belize,Liquefied petroleum gas carriers,..,..
+Belize,Liquefied natural gas carriers,..,..
+Benin,All ships,1048,1.08
+Benin,Passenger ship,..,..
+Benin,Wet bulk,97,1.91
+Benin,Container ship,485,0.82
+Benin,Dry breakbulk,120,2.62
+Benin,Dry bulk,110,9.02
+Benin,Roll-on/ roll-off ship,192,..
+Benin,Liquefied petroleum gas carriers,44,1.25
+Benin,Liquefied natural gas carriers,..,..
+Bermuda,All ships,175,..
+Bermuda,Passenger ship,175,..
+Bermuda,Wet bulk,..,..
+Bermuda,Container ship,..,..
+Bermuda,Dry breakbulk,..,..
+Bermuda,Dry bulk,..,..
+Bermuda,Roll-on/ roll-off ship,..,..
+Bermuda,Liquefied petroleum gas carriers,..,..
+Bermuda,Liquefied natural gas carriers,..,..
+Brazil,All ships,29084,1.59
+Brazil,Passenger ship,1538,..
+Brazil,Wet bulk,6426,1.74
+Brazil,Container ship,7521,0.81
+Brazil,Dry breakbulk,1794,2.45
+Brazil,Dry bulk,9518,2.67
+Brazil,Roll-on/ roll-off ship,899,..
+Brazil,Liquefied petroleum gas carriers,1377,1.66
+Brazil,Liquefied natural gas carriers,11,2.94
+British Virgin Islands,All ships,293,0.57
+British Virgin Islands,Passenger ship,123,..
+British Virgin Islands,Wet bulk,..,..
+British Virgin Islands,Container ship,..,..
+British Virgin Islands,Dry breakbulk,170,0.57
+British Virgin Islands,Dry bulk,..,..
+British Virgin Islands,Roll-on/ roll-off ship,..,..
+British Virgin Islands,Liquefied petroleum gas carriers,..,..
+British Virgin Islands,Liquefied natural gas carriers,..,..
+Brunei Darussalam,All ships,616,0.82
+Brunei Darussalam,Passenger ship,105,..
+Brunei Darussalam,Wet bulk,60,1.1
+Brunei Darussalam,Container ship,207,0.49
+Brunei Darussalam,Dry breakbulk,155,1.09
+Brunei Darussalam,Dry bulk,40,3.43
+Brunei Darussalam,Roll-on/ roll-off ship,49,..
+Brunei Darussalam,Liquefied petroleum gas carriers,..,..
+Brunei Darussalam,Liquefied natural gas carriers,..,..
+Bulgaria,All ships,3094,1.95
+Bulgaria,Passenger ship,..,..
+Bulgaria,Wet bulk,744,1.58
+Bulgaria,Container ship,438,0.88
+Bulgaria,Dry breakbulk,1416,2.57
+Bulgaria,Dry bulk,405,5.27
+Bulgaria,Roll-on/ roll-off ship,50,..
+Bulgaria,Liquefied petroleum gas carriers,41,1.88
+Bulgaria,Liquefied natural gas carriers,..,..
+Cabo Verde,All ships,4196,0.83
+Cabo Verde,Passenger ship,2878,..
+Cabo Verde,Wet bulk,548,0.88
+Cabo Verde,Container ship,338,0.95
+Cabo Verde,Dry breakbulk,263,0.7
+Cabo Verde,Dry bulk,158,0.53
+Cabo Verde,Roll-on/ roll-off ship,..,..
+Cabo Verde,Liquefied petroleum gas carriers,11,0.65
+Cabo Verde,Liquefied natural gas carriers,..,..
+Cambodia,All ships,239,1.03
+Cambodia,Passenger ship,15,..
+Cambodia,Wet bulk,41,1.09
+Cambodia,Container ship,158,0.89
+Cambodia,Dry breakbulk,25,1.35
+Cambodia,Dry bulk,..,..
+Cambodia,Roll-on/ roll-off ship,..,..
+Cambodia,Liquefied petroleum gas carriers,..,..
+Cambodia,Liquefied natural gas carriers,..,..
+Cameroon,All ships,1133,2.57
+Cameroon,Passenger ship,..,..
+Cameroon,Wet bulk,234,2.1
+Cameroon,Container ship,255,2.13
+Cameroon,Dry breakbulk,293,2.07
+Cameroon,Dry bulk,250,6.74
+Cameroon,Roll-on/ roll-off ship,77,..
+Cameroon,Liquefied petroleum gas carriers,24,2.52
+Cameroon,Liquefied natural gas carriers,..,..
+Canada,All ships,86533,0.65
+Canada,Passenger ship,59308,..
+Canada,Wet bulk,4721,1.12
+Canada,Container ship,2131,1.49
+Canada,Dry breakbulk,3281,0.28
+Canada,Dry bulk,13562,0.32
+Canada,Roll-on/ roll-off ship,3530,..
+Canada,Liquefied petroleum gas carriers,..,..
+Canada,Liquefied natural gas carriers,..,..
+Cayman Islands,All ships,873,0.55
+Cayman Islands,Passenger ship,644,..
+Cayman Islands,Wet bulk,51,0.61
+Cayman Islands,Container ship,..,..
+Cayman Islands,Dry breakbulk,178,0.54
+Cayman Islands,Dry bulk,..,..
+Cayman Islands,Roll-on/ roll-off ship,..,..
+Cayman Islands,Liquefied petroleum gas carriers,..,..
+Cayman Islands,Liquefied natural gas carriers,..,..
+Chile,All ships,17608,1.33
+Chile,Passenger ship,9227,..
+Chile,Wet bulk,2069,1.25
+Chile,Container ship,2238,1.01
+Chile,Dry breakbulk,1426,1.62
+Chile,Dry bulk,1769,2.3
+Chile,Roll-on/ roll-off ship,745,..
+Chile,Liquefied petroleum gas carriers,79,1.94
+Chile,Liquefied natural gas carriers,55,1.13
+China,All ships,240385,1.02
+China,Passenger ship,34937,..
+China,Wet bulk,35842,1.1
+China,Container ship,71535,0.62
+China,Dry breakbulk,28805,1.17
+China,Dry bulk,54901,2
+China,Roll-on/ roll-off ship,6610,..
+China,Liquefied petroleum gas carriers,7061,1
+China,Liquefied natural gas carriers,694,1.21
+"China, Hong Kong SAR",All ships,23096,0.56
+"China, Hong Kong SAR",Passenger ship,1500,..
+"China, Hong Kong SAR",Wet bulk,7419,0.63
+"China, Hong Kong SAR",Container ship,12781,0.54
+"China, Hong Kong SAR",Dry breakbulk,512,0.84
+"China, Hong Kong SAR",Dry bulk,453,2.35
+"China, Hong Kong SAR",Roll-on/ roll-off ship,304,..
+"China, Hong Kong SAR",Liquefied petroleum gas carriers,127,0.92
+"China, Hong Kong SAR",Liquefied natural gas carriers,..,..
+"China, Taiwan Province of",All ships,32101,0.65
+"China, Taiwan Province of",Passenger ship,1372,..
+"China, Taiwan Province of",Wet bulk,4975,1.05
+"China, Taiwan Province of",Container ship,15616,0.46
+"China, Taiwan Province of",Dry breakbulk,4667,1.26
+"China, Taiwan Province of",Dry bulk,4219,2.14
+"China, Taiwan Province of",Roll-on/ roll-off ship,423,..
+"China, Taiwan Province of",Liquefied petroleum gas carriers,551,0.98
+"China, Taiwan Province of",Liquefied natural gas carriers,278,0.99
+Christmas Island,All ships,77,0.48
+Christmas Island,Passenger ship,..,..
+Christmas Island,Wet bulk,..,..
+Christmas Island,Container ship,..,..
+Christmas Island,Dry breakbulk,77,0.48
+Christmas Island,Dry bulk,..,..
+Christmas Island,Roll-on/ roll-off ship,..,..
+Christmas Island,Liquefied petroleum gas carriers,..,..
+Christmas Island,Liquefied natural gas carriers,..,..
+Colombia,All ships,8714,0.93
+Colombia,Passenger ship,244,..
+Colombia,Wet bulk,1137,1.2
+Colombia,Container ship,3689,0.6
+Colombia,Dry breakbulk,1132,1.41
+Colombia,Dry bulk,1850,2.51
+Colombia,Roll-on/ roll-off ship,472,..
+Colombia,Liquefied petroleum gas carriers,190,1.24
+Colombia,Liquefied natural gas carriers,..,..
+Comoros,All ships,149,1.38
+Comoros,Passenger ship,..,..
+Comoros,Wet bulk,..,..
+Comoros,Container ship,..,..
+Comoros,Dry breakbulk,149,1.38
+Comoros,Dry bulk,..,..
+Comoros,Roll-on/ roll-off ship,..,..
+Comoros,Liquefied petroleum gas carriers,..,..
+Comoros,Liquefied natural gas carriers,..,..
+Congo,All ships,933,1.34
+Congo,Passenger ship,..,..
+Congo,Wet bulk,36,2.93
+Congo,Container ship,392,1.15
+Congo,Dry breakbulk,395,1.34
+Congo,Dry bulk,78,5.43
+Congo,Roll-on/ roll-off ship,32,..
+Congo,Liquefied petroleum gas carriers,..,..
+Congo,Liquefied natural gas carriers,..,..
+Costa Rica,All ships,2415,1.11
+Costa Rica,Passenger ship,238,..
+Costa Rica,Wet bulk,132,1.49
+Costa Rica,Container ship,1158,1.06
+Costa Rica,Dry breakbulk,505,1.05
+Costa Rica,Dry bulk,192,1.69
+Costa Rica,Roll-on/ roll-off ship,169,..
+Costa Rica,Liquefied petroleum gas carriers,21,1.36
+Costa Rica,Liquefied natural gas carriers,..,..
+C�te d'Ivoire,All ships,2149,1.91
+C�te d'Ivoire,Passenger ship,..,..
+C�te d'Ivoire,Wet bulk,217,2.08
+C�te d'Ivoire,Container ship,694,1.15
+C�te d'Ivoire,Dry breakbulk,592,2.75
+C�te d'Ivoire,Dry bulk,421,5.38
+C�te d'Ivoire,Roll-on/ roll-off ship,173,..
+C�te d'Ivoire,Liquefied petroleum gas carriers,52,3.61
+C�te d'Ivoire,Liquefied natural gas carriers,..,..
+Croatia,All ships,68378,1.2
+Croatia,Passenger ship,66285,..
+Croatia,Wet bulk,572,1.04
+Croatia,Container ship,394,0.59
+Croatia,Dry breakbulk,765,2.63
+Croatia,Dry bulk,362,1.81
+Croatia,Roll-on/ roll-off ship,..,..
+Croatia,Liquefied petroleum gas carriers,..,..
+Croatia,Liquefied natural gas carriers,..,..
+Cuba,All ships,1735,2.59
+Cuba,Passenger ship,280,..
+Cuba,Wet bulk,395,2.29
+Cuba,Container ship,222,1.39
+Cuba,Dry breakbulk,512,3.09
+Cuba,Dry bulk,272,9.68
+Cuba,Roll-on/ roll-off ship,..,..
+Cuba,Liquefied petroleum gas carriers,54,1.41
+Cuba,Liquefied natural gas carriers,..,..
+Cura�ao,All ships,1323,1.08
+Cura�ao,Passenger ship,298,..
+Cura�ao,Wet bulk,309,1.83
+Cura�ao,Container ship,148,1.95
+Cura�ao,Dry breakbulk,470,0.52
+Cura�ao,Dry bulk,36,1.11
+Cura�ao,Roll-on/ roll-off ship,44,..
+Cura�ao,Liquefied petroleum gas carriers,18,1.48
+Cura�ao,Liquefied natural gas carriers,..,..
+Cyprus,All ships,4594,0.68
+Cyprus,Passenger ship,466,..
+Cyprus,Wet bulk,909,0.39
+Cyprus,Container ship,722,0.58
+Cyprus,Dry breakbulk,1393,1.01
+Cyprus,Dry bulk,122,1.12
+Cyprus,Roll-on/ roll-off ship,982,..
+Cyprus,Liquefied petroleum gas carriers,..,..
+Cyprus,Liquefied natural gas carriers,..,..
+Dem. Rep. of the Congo,All ships,267,1.95
+Dem. Rep. of the Congo,Passenger ship,..,..
+Dem. Rep. of the Congo,Wet bulk,..,..
+Dem. Rep. of the Congo,Container ship,..,..
+Dem. Rep. of the Congo,Dry breakbulk,217,1.81
+Dem. Rep. of the Congo,Dry bulk,50,5.8
+Dem. Rep. of the Congo,Roll-on/ roll-off ship,..,..
+Dem. Rep. of the Congo,Liquefied petroleum gas carriers,..,..
+Dem. Rep. of the Congo,Liquefied natural gas carriers,..,..
+Denmark,All ships,113642,0.74
+Denmark,Passenger ship,99434,..
+Denmark,Wet bulk,2840,0.65
+Denmark,Container ship,1171,0.49
+Denmark,Dry breakbulk,8151,0.84
+Denmark,Dry bulk,783,0.87
+Denmark,Roll-on/ roll-off ship,1185,..
+Denmark,Liquefied petroleum gas carriers,78,1.07
+Denmark,Liquefied natural gas carriers,..,..
+Djibouti,All ships,1285,1
+Djibouti,Passenger ship,..,..
+Djibouti,Wet bulk,235,1.07
+Djibouti,Container ship,522,0.81
+Djibouti,Dry breakbulk,171,1.75
+Djibouti,Dry bulk,210,3.92
+Djibouti,Roll-on/ roll-off ship,147,..
+Djibouti,Liquefied petroleum gas carriers,..,..
+Djibouti,Liquefied natural gas carriers,..,..
+Dominica,All ships,272,0.42
+Dominica,Passenger ship,87,..
+Dominica,Wet bulk,..,..
+Dominica,Container ship,27,0.57
+Dominica,Dry breakbulk,108,0.4
+Dominica,Dry bulk,..,..
+Dominica,Roll-on/ roll-off ship,50,..
+Dominica,Liquefied petroleum gas carriers,..,..
+Dominica,Liquefied natural gas carriers,..,..
+Dominican Republic,All ships,4144,0.82
+Dominican Republic,Passenger ship,491,..
+Dominican Republic,Wet bulk,402,1.29
+Dominican Republic,Container ship,1797,0.67
+Dominican Republic,Dry breakbulk,860,0.76
+Dominican Republic,Dry bulk,318,3.47
+Dominican Republic,Roll-on/ roll-off ship,174,..
+Dominican Republic,Liquefied petroleum gas carriers,90,1.35
+Dominican Republic,Liquefied natural gas carriers,12,1.35
+Ecuador,All ships,4476,1.13
+Ecuador,Passenger ship,467,..
+Ecuador,Wet bulk,1493,0.82
+Ecuador,Container ship,1366,1.14
+Ecuador,Dry breakbulk,682,2.41
+Ecuador,Dry bulk,266,2.88
+Ecuador,Roll-on/ roll-off ship,172,..
+Ecuador,Liquefied petroleum gas carriers,30,1.3
+Ecuador,Liquefied natural gas carriers,..,..
+Egypt,All ships,10663,1.44
+Egypt,Passenger ship,642,..
+Egypt,Wet bulk,1073,1.85
+Egypt,Container ship,3685,0.89
+Egypt,Dry breakbulk,2467,2.7
+Egypt,Dry bulk,1983,4.42
+Egypt,Roll-on/ roll-off ship,603,..
+Egypt,Liquefied petroleum gas carriers,179,2.1
+Egypt,Liquefied natural gas carriers,31,1.25
+El Salvador,All ships,711,1.32
+El Salvador,Passenger ship,..,..
+El Salvador,Wet bulk,202,1.23
+El Salvador,Container ship,229,1.29
+El Salvador,Dry breakbulk,22,2.05
+El Salvador,Dry bulk,178,1.83
+El Salvador,Roll-on/ roll-off ship,80,..
+El Salvador,Liquefied petroleum gas carriers,..,..
+El Salvador,Liquefied natural gas carriers,..,..
+Equatorial Guinea,All ships,769,1.16
+Equatorial Guinea,Passenger ship,..,..
+Equatorial Guinea,Wet bulk,116,1.19
+Equatorial Guinea,Container ship,107,1.23
+Equatorial Guinea,Dry breakbulk,231,1.09
+Equatorial Guinea,Dry bulk,164,1.14
+Equatorial Guinea,Roll-on/ roll-off ship,28,..
+Equatorial Guinea,Liquefied petroleum gas carriers,68,1.05
+Equatorial Guinea,Liquefied natural gas carriers,55,1.2
+Eritrea,All ships,59,2
+Eritrea,Passenger ship,..,..
+Eritrea,Wet bulk,13,2
+Eritrea,Container ship,..,..
+Eritrea,Dry breakbulk,46,2.01
+Eritrea,Dry bulk,..,..
+Eritrea,Roll-on/ roll-off ship,..,..
+Eritrea,Liquefied petroleum gas carriers,..,..
+Eritrea,Liquefied natural gas carriers,..,..
+Estonia,All ships,32780,0.83
+Estonia,Passenger ship,27375,..
+Estonia,Wet bulk,1852,0.78
+Estonia,Container ship,388,0.54
+Estonia,Dry breakbulk,2614,0.89
+Estonia,Dry bulk,157,3.25
+Estonia,Roll-on/ roll-off ship,352,..
+Estonia,Liquefied petroleum gas carriers,42,0.78
+Estonia,Liquefied natural gas carriers,..,..
+Faroe Islands,All ships,8201,0.49
+Faroe Islands,Passenger ship,6964,..
+Faroe Islands,Wet bulk,125,0.45
+Faroe Islands,Container ship,276,0.23
+Faroe Islands,Dry breakbulk,836,0.82
+Faroe Islands,Dry bulk,..,..
+Faroe Islands,Roll-on/ roll-off ship,..,..
+Faroe Islands,Liquefied petroleum gas carriers,..,..
+Faroe Islands,Liquefied natural gas carriers,..,..
+Falkland Islands (Malvinas),All ships,60,..
+Falkland Islands (Malvinas),Passenger ship,60,..
+Falkland Islands (Malvinas),Wet bulk,..,..
+Falkland Islands (Malvinas),Container ship,..,..
+Falkland Islands (Malvinas),Dry breakbulk,..,..
+Falkland Islands (Malvinas),Dry bulk,..,..
+Falkland Islands (Malvinas),Roll-on/ roll-off ship,..,..
+Falkland Islands (Malvinas),Liquefied petroleum gas carriers,..,..
+Falkland Islands (Malvinas),Liquefied natural gas carriers,..,..
+Fiji,All ships,1974,0.97
+Fiji,Passenger ship,924,..
+Fiji,Wet bulk,244,1.29
+Fiji,Container ship,370,0.94
+Fiji,Dry breakbulk,325,0.68
+Fiji,Dry bulk,35,2.93
+Fiji,Roll-on/ roll-off ship,38,..
+Fiji,Liquefied petroleum gas carriers,38,0.69
+Fiji,Liquefied natural gas carriers,..,..
+Finland,All ships,35406,1.03
+Finland,Passenger ship,20001,..
+Finland,Wet bulk,3070,0.88
+Finland,Container ship,1896,0.79
+Finland,Dry breakbulk,6250,1.28
+Finland,Dry bulk,398,1.66
+Finland,Roll-on/ roll-off ship,3672,..
+Finland,Liquefied petroleum gas carriers,119,1.08
+Finland,Liquefied natural gas carriers,..,..
+French Polynesia,All ships,4976,0.3
+French Polynesia,Passenger ship,4232,..
+French Polynesia,Wet bulk,..,..
+French Polynesia,Container ship,107,0.65
+French Polynesia,Dry breakbulk,637,0.16
+French Polynesia,Dry bulk,..,..
+French Polynesia,Roll-on/ roll-off ship,..,..
+French Polynesia,Liquefied petroleum gas carriers,..,..
+French Polynesia,Liquefied natural gas carriers,..,..
+Gabon,All ships,780,1.37
+Gabon,Passenger ship,63,..
+Gabon,Wet bulk,195,1.58
+Gabon,Container ship,143,0.99
+Gabon,Dry breakbulk,237,1.15
+Gabon,Dry bulk,101,3.57
+Gabon,Roll-on/ roll-off ship,41,..
+Gabon,Liquefied petroleum gas carriers,..,..
+Gabon,Liquefied natural gas carriers,..,..
+Gambia,All ships,240,3.46
+Gambia,Passenger ship,..,..
+Gambia,Wet bulk,..,..
+Gambia,Container ship,144,3.39
+Gambia,Dry breakbulk,46,3.43
+Gambia,Dry bulk,50,3.89
+Gambia,Roll-on/ roll-off ship,..,..
+Gambia,Liquefied petroleum gas carriers,..,..
+Gambia,Liquefied natural gas carriers,..,..
+Georgia,All ships,1381,1.51
+Georgia,Passenger ship,..,..
+Georgia,Wet bulk,391,1.35
+Georgia,Container ship,274,1.15
+Georgia,Dry breakbulk,546,1.86
+Georgia,Dry bulk,69,6.01
+Georgia,Roll-on/ roll-off ship,89,..
+Georgia,Liquefied petroleum gas carriers,12,2.18
+Georgia,Liquefied natural gas carriers,..,..
+Germany,All ships,106613,0.56
+Germany,Passenger ship,56349,..
+Germany,Wet bulk,14394,0.36
+Germany,Container ship,9589,0.79
+Germany,Dry breakbulk,18293,0.5
+Germany,Dry bulk,1430,2.48
+Germany,Roll-on/ roll-off ship,5651,..
+Germany,Liquefied petroleum gas carriers,907,0.75
+Germany,Liquefied natural gas carriers,..,..
+Ghana,All ships,2569,1.52
+Ghana,Passenger ship,..,..
+Ghana,Wet bulk,392,1.78
+Ghana,Container ship,617,1.31
+Ghana,Dry breakbulk,912,0.72
+Ghana,Dry bulk,395,4.49
+Ghana,Roll-on/ roll-off ship,172,..
+Ghana,Liquefied petroleum gas carriers,81,3.01
+Ghana,Liquefied natural gas carriers,..,..
+Gibraltar,All ships,2154,0.28
+Gibraltar,Passenger ship,340,..
+Gibraltar,Wet bulk,1252,0.35
+Gibraltar,Container ship,40,0.31
+Gibraltar,Dry breakbulk,498,0.2
+Gibraltar,Dry bulk,12,6.1
+Gibraltar,Roll-on/ roll-off ship,12,..
+Gibraltar,Liquefied petroleum gas carriers,..,..
+Gibraltar,Liquefied natural gas carriers,..,..
+Greece,All ships,155072,0.71
+Greece,Passenger ship,126537,..
+Greece,Wet bulk,12275,0.54
+Greece,Container ship,3807,0.95
+Greece,Dry breakbulk,6366,1.07
+Greece,Dry bulk,2928,0.35
+Greece,Roll-on/ roll-off ship,2706,..
+Greece,Liquefied petroleum gas carriers,438,0.88
+Greece,Liquefied natural gas carriers,15,0.99
+Greenland,All ships,319,0.54
+Greenland,Passenger ship,222,..
+Greenland,Wet bulk,..,..
+Greenland,Container ship,..,..
+Greenland,Dry breakbulk,97,0.54
+Greenland,Dry bulk,..,..
+Greenland,Roll-on/ roll-off ship,..,..
+Greenland,Liquefied petroleum gas carriers,..,..
+Greenland,Liquefied natural gas carriers,..,..
+Grenada,All ships,451,0.37
+Grenada,Passenger ship,203,..
+Grenada,Wet bulk,..,..
+Grenada,Container ship,86,0.3
+Grenada,Dry breakbulk,162,0.4
+Grenada,Dry bulk,..,..
+Grenada,Roll-on/ roll-off ship,..,..
+Grenada,Liquefied petroleum gas carriers,..,..
+Grenada,Liquefied natural gas carriers,..,..
+Guam,All ships,322,1.3
+Guam,Passenger ship,..,..
+Guam,Wet bulk,51,2.05
+Guam,Container ship,129,0.97
+Guam,Dry breakbulk,90,2.16
+Guam,Dry bulk,..,..
+Guam,Roll-on/ roll-off ship,52,..
+Guam,Liquefied petroleum gas carriers,..,..
+Guam,Liquefied natural gas carriers,..,..
+Guatemala,All ships,3236,0.79
+Guatemala,Passenger ship,117,..
+Guatemala,Wet bulk,450,1.12
+Guatemala,Container ship,1867,0.65
+Guatemala,Dry breakbulk,304,0.93
+Guatemala,Dry bulk,360,2.3
+Guatemala,Roll-on/ roll-off ship,138,..
+Guatemala,Liquefied petroleum gas carriers,..,..
+Guatemala,Liquefied natural gas carriers,..,..
+Guinea,All ships,1104,2.02
+Guinea,Passenger ship,..,..
+Guinea,Wet bulk,100,1.77
+Guinea,Container ship,241,0.97
+Guinea,Dry breakbulk,199,1.27
+Guinea,Dry bulk,453,2.99
+Guinea,Roll-on/ roll-off ship,111,..
+Guinea,Liquefied petroleum gas carriers,..,..
+Guinea,Liquefied natural gas carriers,..,..
+Guinea-Bissau,All ships,101,2.87
+Guinea-Bissau,Passenger ship,..,..
+Guinea-Bissau,Wet bulk,..,..
+Guinea-Bissau,Container ship,59,2.86
+Guinea-Bissau,Dry breakbulk,42,3.03
+Guinea-Bissau,Dry bulk,..,..
+Guinea-Bissau,Roll-on/ roll-off ship,..,..
+Guinea-Bissau,Liquefied petroleum gas carriers,..,..
+Guinea-Bissau,Liquefied natural gas carriers,..,..
+Guyana,All ships,1083,1.01
+Guyana,Passenger ship,..,..
+Guyana,Wet bulk,244,1.58
+Guyana,Container ship,184,0.96
+Guyana,Dry breakbulk,504,0.79
+Guyana,Dry bulk,151,3.38
+Guyana,Roll-on/ roll-off ship,..,..
+Guyana,Liquefied petroleum gas carriers,..,..
+Guyana,Liquefied natural gas carriers,..,..
+Haiti,All ships,949,0.95
+Haiti,Passenger ship,64,..
+Haiti,Wet bulk,64,1.96
+Haiti,Container ship,192,0.57
+Haiti,Dry breakbulk,402,0.94
+Haiti,Dry bulk,125,4.99
+Haiti,Roll-on/ roll-off ship,102,..
+Haiti,Liquefied petroleum gas carriers,..,..
+Haiti,Liquefied natural gas carriers,..,..
+Honduras,All ships,2352,0.56
+Honduras,Passenger ship,393,..
+Honduras,Wet bulk,228,1.36
+Honduras,Container ship,1297,0.46
+Honduras,Dry breakbulk,130,1.65
+Honduras,Dry bulk,163,3.49
+Honduras,Roll-on/ roll-off ship,94,..
+Honduras,Liquefied petroleum gas carriers,47,1.45
+Honduras,Liquefied natural gas carriers,..,..
+Hungary,All ships,220,..
+Hungary,Passenger ship,220,..
+Hungary,Wet bulk,..,..
+Hungary,Container ship,..,..
+Hungary,Dry breakbulk,..,..
+Hungary,Dry bulk,..,..
+Hungary,Roll-on/ roll-off ship,..,..
+Hungary,Liquefied petroleum gas carriers,..,..
+Hungary,Liquefied natural gas carriers,..,..
+Iceland,All ships,5263,0.71
+Iceland,Passenger ship,2858,..
+Iceland,Wet bulk,242,0.48
+Iceland,Container ship,771,0.65
+Iceland,Dry breakbulk,1300,0.78
+Iceland,Dry bulk,92,2.05
+Iceland,Roll-on/ roll-off ship,..,..
+Iceland,Liquefied petroleum gas carriers,..,..
+Iceland,Liquefied natural gas carriers,..,..
+India,All ships,40165,1.32
+India,Passenger ship,1166,..
+India,Wet bulk,9005,1.42
+India,Container ship,8206,0.93
+India,Dry breakbulk,9056,0.82
+India,Dry bulk,10560,2.49
+India,Roll-on/ roll-off ship,481,..
+India,Liquefied petroleum gas carriers,1346,1.27
+India,Liquefied natural gas carriers,345,1.15
+Indonesia,All ships,150429,1.34
+Indonesia,Passenger ship,88370,..
+Indonesia,Wet bulk,15935,1.28
+Indonesia,Container ship,13747,1.09
+Indonesia,Dry breakbulk,14462,1.26
+Indonesia,Dry bulk,10342,3.55
+Indonesia,Roll-on/ roll-off ship,4537,..
+Indonesia,Liquefied petroleum gas carriers,2799,1.13
+Indonesia,Liquefied natural gas carriers,237,1.38
+Iran (Islamic Republic of),All ships,5919,2.05
+Iran (Islamic Republic of),Passenger ship,771,..
+Iran (Islamic Republic of),Wet bulk,1531,1.66
+Iran (Islamic Republic of),Container ship,804,1.18
+Iran (Islamic Republic of),Dry breakbulk,1819,2.57
+Iran (Islamic Republic of),Dry bulk,798,5.91
+Iran (Islamic Republic of),Roll-on/ roll-off ship,83,..
+Iran (Islamic Republic of),Liquefied petroleum gas carriers,113,1.75
+Iran (Islamic Republic of),Liquefied natural gas carriers,..,..
+Iraq,All ships,2375,2.9
+Iraq,Passenger ship,..,..
+Iraq,Wet bulk,1380,3.13
+Iraq,Container ship,386,2.13
+Iraq,Dry breakbulk,404,1.76
+Iraq,Dry bulk,132,8.22
+Iraq,Roll-on/ roll-off ship,40,..
+Iraq,Liquefied petroleum gas carriers,33,2.85
+Iraq,Liquefied natural gas carriers,..,..
+Ireland,All ships,13474,1.22
+Ireland,Passenger ship,5942,..
+Ireland,Wet bulk,1059,0.85
+Ireland,Container ship,1469,0.93
+Ireland,Dry breakbulk,2563,1.55
+Ireland,Dry bulk,317,2.99
+Ireland,Roll-on/ roll-off ship,1997,..
+Ireland,Liquefied petroleum gas carriers,127,0.78
+Ireland,Liquefied natural gas carriers,..,..
+Israel,All ships,5528,1.34
+Israel,Passenger ship,137,..
+Israel,Wet bulk,614,1.28
+Israel,Container ship,2140,0.94
+Israel,Dry breakbulk,1471,2.24
+Israel,Dry bulk,830,3.41
+Israel,Roll-on/ roll-off ship,336,..
+Israel,Liquefied petroleum gas carriers,..,..
+Israel,Liquefied natural gas carriers,..,..
+Italy,All ships,229930,1.25
+Italy,Passenger ship,190665,..
+Italy,Wet bulk,9667,1.29
+Italy,Container ship,8920,0.82
+Italy,Dry breakbulk,7279,1.93
+Italy,Dry bulk,2158,3.55
+Italy,Roll-on/ roll-off ship,10018,..
+Italy,Liquefied petroleum gas carriers,1223,1.44
+Italy,Liquefied natural gas carriers,..,..
+Jamaica,All ships,3954,1.01
+Jamaica,Passenger ship,443,..
+Jamaica,Wet bulk,1076,0.96
+Jamaica,Container ship,1325,0.93
+Jamaica,Dry breakbulk,568,1.01
+Jamaica,Dry bulk,217,3.55
+Jamaica,Roll-on/ roll-off ship,288,..
+Jamaica,Liquefied petroleum gas carriers,37,1.5
+Jamaica,Liquefied natural gas carriers,..,..
+Japan,All ships,265518,0.41
+Japan,Passenger ship,85118,..
+Japan,Wet bulk,44382,0.31
+Japan,Container ship,38238,0.35
+Japan,Dry breakbulk,27153,1.12
+Japan,Dry bulk,28835,0.9
+Japan,Roll-on/ roll-off ship,33371,..
+Japan,Liquefied petroleum gas carriers,6398,0.32
+Japan,Liquefied natural gas carriers,2023,0.99
+Jordan,All ships,2245,1.64
+Jordan,Passenger ship,659,..
+Jordan,Wet bulk,179,1.97
+Jordan,Container ship,363,0.8
+Jordan,Dry breakbulk,180,2.24
+Jordan,Dry bulk,281,3.24
+Jordan,Roll-on/ roll-off ship,460,..
+Jordan,Liquefied petroleum gas carriers,79,3.5
+Jordan,Liquefied natural gas carriers,44,1.5
+Kazakhstan,All ships,1079,1.71
+Kazakhstan,Passenger ship,60,..
+Kazakhstan,Wet bulk,236,0.85
+Kazakhstan,Container ship,..,..
+Kazakhstan,Dry breakbulk,783,2.11
+Kazakhstan,Dry bulk,..,..
+Kazakhstan,Roll-on/ roll-off ship,..,..
+Kazakhstan,Liquefied petroleum gas carriers,..,..
+Kazakhstan,Liquefied natural gas carriers,..,..
+Kenya,All ships,1606,2.93
+Kenya,Passenger ship,..,..
+Kenya,Wet bulk,198,4.03
+Kenya,Container ship,562,2.51
+Kenya,Dry breakbulk,279,1.39
+Kenya,Dry bulk,334,5.46
+Kenya,Roll-on/ roll-off ship,217,..
+Kenya,Liquefied petroleum gas carriers,16,2.63
+Kenya,Liquefied natural gas carriers,..,..
+Kiribati,All ships,42,1.1
+Kiribati,Passenger ship,..,..
+Kiribati,Wet bulk,..,..
+Kiribati,Container ship,42,1.1
+Kiribati,Dry breakbulk,..,..
+Kiribati,Dry bulk,..,..
+Kiribati,Roll-on/ roll-off ship,..,..
+Kiribati,Liquefied petroleum gas carriers,..,..
+Kiribati,Liquefied natural gas carriers,..,..
+"Korea, Dem. People's Rep. of",All ships,18,5.44
+"Korea, Dem. People's Rep. of",Passenger ship,..,..
+"Korea, Dem. People's Rep. of",Wet bulk,..,..
+"Korea, Dem. People's Rep. of",Container ship,..,..
+"Korea, Dem. People's Rep. of",Dry breakbulk,18,5.44
+"Korea, Dem. People's Rep. of",Dry bulk,..,..
+"Korea, Dem. People's Rep. of",Roll-on/ roll-off ship,..,..
+"Korea, Dem. People's Rep. of",Liquefied petroleum gas carriers,..,..
+Northern Mariana Islands,Liquefied natural gas carriers,..,..
+"Korea, Republic of",All ships,71602,0.79
+"Korea, Republic of",Passenger ship,5840,..
+"Korea, Republic of",Wet bulk,17397,0.79
+"Korea, Republic of",Container ship,20777,0.6
+"Korea, Republic of",Dry breakbulk,11874,1.29
+"Korea, Republic of",Dry bulk,5967,2.34
+"Korea, Republic of",Roll-on/ roll-off ship,6708,..
+"Korea, Republic of",Liquefied petroleum gas carriers,2457,0.72
+"Korea, Republic of",Liquefied natural gas carriers,582,1.03
+Kuwait,All ships,2625,1.88
+Kuwait,Passenger ship,..,..
+Kuwait,Wet bulk,992,1.42
+Kuwait,Container ship,426,1.69
+Kuwait,Dry breakbulk,254,2.26
+Kuwait,Dry bulk,651,3.73
+Kuwait,Roll-on/ roll-off ship,169,..
+Kuwait,Liquefied petroleum gas carriers,84,1.53
+Kuwait,Liquefied natural gas carriers,49,1.98
+Latvia,All ships,7446,1.27
+Latvia,Passenger ship,1321,..
+Latvia,Wet bulk,1047,1.47
+Latvia,Container ship,563,0.68
+Latvia,Dry breakbulk,3749,1.19
+Latvia,Dry bulk,663,3.62
+Latvia,Roll-on/ roll-off ship,..,..
+Latvia,Liquefied petroleum gas carriers,103,0.65
+Latvia,Liquefied natural gas carriers,..,..
+Lebanon,All ships,3408,0.83
+Lebanon,Passenger ship,..,..
+Lebanon,Wet bulk,414,0.89
+Lebanon,Container ship,1100,0.62
+Lebanon,Dry breakbulk,1236,1.56
+Lebanon,Dry bulk,278,2.5
+Lebanon,Roll-on/ roll-off ship,337,..
+Lebanon,Liquefied petroleum gas carriers,43,0.94
+Lebanon,Liquefied natural gas carriers,..,..
+Liberia,All ships,382,2.8
+Liberia,Passenger ship,..,..
+Liberia,Wet bulk,56,2.11
+Liberia,Container ship,116,1.93
+Liberia,Dry breakbulk,82,2.84
+Liberia,Dry bulk,128,3.95
+Liberia,Roll-on/ roll-off ship,..,..
+Liberia,Liquefied petroleum gas carriers,..,..
+Liberia,Liquefied natural gas carriers,..,..
+Libya,All ships,2232,1.94
+Libya,Passenger ship,..,..
+Libya,Wet bulk,609,1.31
+Libya,Container ship,599,1.93
+Libya,Dry breakbulk,496,2.86
+Libya,Dry bulk,165,9.9
+Libya,Roll-on/ roll-off ship,196,..
+Libya,Liquefied petroleum gas carriers,167,1.12
+Libya,Liquefied natural gas carriers,..,..
+Lithuania,All ships,5126,1.22
+Lithuania,Passenger ship,894,..
+Lithuania,Wet bulk,687,1.32
+Lithuania,Container ship,844,0.66
+Lithuania,Dry breakbulk,2042,1.29
+Lithuania,Dry bulk,503,2.65
+Lithuania,Roll-on/ roll-off ship,156,..
+Lithuania,Liquefied petroleum gas carriers,..,..
+Lithuania,Liquefied natural gas carriers,..,..
+Madagascar,All ships,716,1.46
+Madagascar,Passenger ship,30,..
+Madagascar,Wet bulk,131,2.49
+Madagascar,Container ship,231,1.05
+Madagascar,Dry breakbulk,191,1.19
+Madagascar,Dry bulk,96,5.41
+Madagascar,Roll-on/ roll-off ship,37,..
+Madagascar,Liquefied petroleum gas carriers,..,..
+Madagascar,Liquefied natural gas carriers,..,..
+Malaysia,All ships,36376,0.95
+Malaysia,Passenger ship,3394,..
+Malaysia,Wet bulk,10069,1.16
+Malaysia,Container ship,14974,0.76
+Malaysia,Dry breakbulk,4105,1.15
+Malaysia,Dry bulk,2511,3.42
+Malaysia,Roll-on/ roll-off ship,506,..
+Malaysia,Liquefied petroleum gas carriers,704,0.91
+Malaysia,Liquefied natural gas carriers,113,1.09
+Maldives,All ships,316,2.85
+Maldives,Passenger ship,..,..
+Maldives,Wet bulk,67,1.09
+Maldives,Container ship,87,6.48
+Maldives,Dry breakbulk,70,4.51
+Maldives,Dry bulk,92,1.53
+Maldives,Roll-on/ roll-off ship,..,..
+Maldives,Liquefied petroleum gas carriers,..,..
+Maldives,Liquefied natural gas carriers,..,..
+Malta,All ships,24676,0.87
+Malta,Passenger ship,19190,..
+Malta,Wet bulk,2413,0.55
+Malta,Container ship,2031,1
+Malta,Dry breakbulk,654,1.31
+Malta,Dry bulk,62,1.74
+Malta,Roll-on/ roll-off ship,326,..
+Malta,Liquefied petroleum gas carriers,..,..
+Malta,Liquefied natural gas carriers,..,..
+Marshall Islands,All ships,118,0.92
+Marshall Islands,Passenger ship,..,..
+Marshall Islands,Wet bulk,12,0.99
+Marshall Islands,Container ship,51,0.98
+Marshall Islands,Dry breakbulk,55,0.76
+Marshall Islands,Dry bulk,..,..
+Marshall Islands,Roll-on/ roll-off ship,..,..
+Marshall Islands,Liquefied petroleum gas carriers,..,..
+Marshall Islands,Liquefied natural gas carriers,..,..
+Mauritania,All ships,777,2.05
+Mauritania,Passenger ship,..,..
+Mauritania,Wet bulk,174,1.95
+Mauritania,Container ship,256,1.93
+Mauritania,Dry breakbulk,138,1.86
+Mauritania,Dry bulk,182,3.91
+Mauritania,Roll-on/ roll-off ship,27,..
+Mauritania,Liquefied petroleum gas carriers,..,..
+Mauritania,Liquefied natural gas carriers,..,..
+Mauritius,All ships,1299,1.05
+Mauritius,Passenger ship,61,..
+Mauritius,Wet bulk,411,0.53
+Mauritius,Container ship,596,1.14
+Mauritius,Dry breakbulk,148,2.36
+Mauritius,Dry bulk,53,4.72
+Mauritius,Roll-on/ roll-off ship,30,..
+Mauritius,Liquefied petroleum gas carriers,..,..
+Mauritius,Liquefied natural gas carriers,..,..
+Mexico,All ships,20430,1.34
+Mexico,Passenger ship,4604,..
+Mexico,Wet bulk,5016,1.47
+Mexico,Container ship,3840,0.86
+Mexico,Dry breakbulk,1349,1.56
+Mexico,Dry bulk,2663,3.1
+Mexico,Roll-on/ roll-off ship,2451,..
+Mexico,Liquefied petroleum gas carriers,440,2.1
+Mexico,Liquefied natural gas carriers,67,1.22
+Micronesia (Federated States of),All ships,136,0.75
+Micronesia (Federated States of),Passenger ship,..,..
+Micronesia (Federated States of),Wet bulk,..,..
+Micronesia (Federated States of),Container ship,40,0.77
+Micronesia (Federated States of),Dry breakbulk,96,0.75
+Micronesia (Federated States of),Dry bulk,..,..
+Micronesia (Federated States of),Roll-on/ roll-off ship,..,..
+Micronesia (Federated States of),Liquefied petroleum gas carriers,..,..
+Micronesia (Federated States of),Liquefied natural gas carriers,..,..
+Montenegro,All ships,673,1
+Montenegro,Passenger ship,376,..
+Montenegro,Wet bulk,19,1.03
+Montenegro,Container ship,44,0.56
+Montenegro,Dry breakbulk,95,0.82
+Montenegro,Dry bulk,139,1.25
+Montenegro,Roll-on/ roll-off ship,..,..
+Montenegro,Liquefied petroleum gas carriers,..,..
+Montenegro,Liquefied natural gas carriers,..,..
+Morocco,All ships,25133,1.1
+Morocco,Passenger ship,13929,..
+Morocco,Wet bulk,1576,1.35
+Morocco,Container ship,3676,0.73
+Morocco,Dry breakbulk,1988,1.38
+Morocco,Dry bulk,1351,3.5
+Morocco,Roll-on/ roll-off ship,2281,..
+Morocco,Liquefied petroleum gas carriers,332,1.21
+Morocco,Liquefied natural gas carriers,..,..
+Mozambique,All ships,1927,2.13
+Mozambique,Passenger ship,11,..
+Mozambique,Wet bulk,392,1.84
+Mozambique,Container ship,499,1.52
+Mozambique,Dry breakbulk,201,2.93
+Mozambique,Dry bulk,731,3.43
+Mozambique,Roll-on/ roll-off ship,79,..
+Mozambique,Liquefied petroleum gas carriers,14,1
+Mozambique,Liquefied natural gas carriers,..,..
+Myanmar,All ships,593,2.99
+Myanmar,Passenger ship,..,..
+Myanmar,Wet bulk,90,1.95
+Myanmar,Container ship,355,2.77
+Myanmar,Dry breakbulk,72,4.63
+Myanmar,Dry bulk,65,9.07
+Myanmar,Roll-on/ roll-off ship,11,..
+Myanmar,Liquefied petroleum gas carriers,..,..
+Myanmar,Liquefied natural gas carriers,..,..
+Namibia,All ships,681,1.63
+Namibia,Passenger ship,19,..
+Namibia,Wet bulk,98,1.8
+Namibia,Container ship,253,1.21
+Namibia,Dry breakbulk,194,1.64
+Namibia,Dry bulk,78,3.31
+Namibia,Roll-on/ roll-off ship,39,..
+Namibia,Liquefied petroleum gas carriers,..,..
+Namibia,Liquefied natural gas carriers,..,..
+Netherlands,All ships,123726,0.57
+Netherlands,Passenger ship,23383,..
+Netherlands,Wet bulk,41843,0.49
+Netherlands,Container ship,12309,0.78
+Netherlands,Dry breakbulk,26709,0.4
+Netherlands,Dry bulk,4355,0.84
+Netherlands,Roll-on/ roll-off ship,12637,..
+Netherlands,Liquefied petroleum gas carriers,2331,0.94
+Netherlands,Liquefied natural gas carriers,159,1.3
+New Caledonia,All ships,1498,1.2
+New Caledonia,Passenger ship,543,..
+New Caledonia,Wet bulk,87,1.04
+New Caledonia,Container ship,307,0.66
+New Caledonia,Dry breakbulk,360,1.63
+New Caledonia,Dry bulk,173,3.02
+New Caledonia,Roll-on/ roll-off ship,28,..
+New Caledonia,Liquefied petroleum gas carriers,..,..
+New Caledonia,Liquefied natural gas carriers,..,..
+New Zealand,All ships,13909,1.08
+New Zealand,Passenger ship,7009,..
+New Zealand,Wet bulk,974,1.07
+New Zealand,Container ship,3059,0.74
+New Zealand,Dry breakbulk,484,1.74
+New Zealand,Dry bulk,1956,2.3
+New Zealand,Roll-on/ roll-off ship,427,..
+New Zealand,Liquefied petroleum gas carriers,..,..
+New Zealand,Liquefied natural gas carriers,..,..
+Nicaragua,All ships,498,1.25
+Nicaragua,Passenger ship,26,..
+Nicaragua,Wet bulk,99,1.03
+Nicaragua,Container ship,203,1.21
+Nicaragua,Dry breakbulk,32,1.1
+Nicaragua,Dry bulk,82,2.87
+Nicaragua,Roll-on/ roll-off ship,56,..
+Nicaragua,Liquefied petroleum gas carriers,..,..
+Nicaragua,Liquefied natural gas carriers,..,..
+Nigeria,All ships,4198,2.7
+Nigeria,Passenger ship,..,..
+Nigeria,Wet bulk,1507,3.15
+Nigeria,Container ship,959,2.15
+Nigeria,Dry breakbulk,444,3.04
+Nigeria,Dry bulk,632,4.36
+Nigeria,Roll-on/ roll-off ship,217,..
+Nigeria,Liquefied petroleum gas carriers,135,1.93
+Nigeria,Liquefied natural gas carriers,304,1.32
+Northern Mariana Islands,All ships,106,0.62
+Northern Mariana Islands,Passenger ship,..,..
+Northern Mariana Islands,Wet bulk,28,0.98
+Northern Mariana Islands,Container ship,46,0.5
+Northern Mariana Islands,Dry breakbulk,32,0.84
+Northern Mariana Islands,Dry bulk,..,..
+Northern Mariana Islands,Roll-on/ roll-off ship,..,..
+Northern Mariana Islands,Liquefied petroleum gas carriers,..,..
+Northern Mariana Islands,Liquefied natural gas carriers,..,..
+Norway,All ships,524469,0.43
+Norway,Passenger ship,475130,..
+Norway,Wet bulk,5600,0.61
+Norway,Container ship,3536,0.33
+Norway,Dry breakbulk,32692,0.34
+Norway,Dry bulk,2282,0.87
+Norway,Roll-on/ roll-off ship,3525,..
+Norway,Liquefied petroleum gas carriers,1142,0.75
+Norway,Liquefied natural gas carriers,562,0.32
+Oman,All ships,5256,1.24
+Oman,Passenger ship,718,..
+Oman,Wet bulk,1267,1.71
+Oman,Container ship,1570,0.76
+Oman,Dry breakbulk,322,1.76
+Oman,Dry bulk,918,2.95
+Oman,Roll-on/ roll-off ship,276,..
+Oman,Liquefied petroleum gas carriers,75,1.41
+Oman,Liquefied natural gas carriers,110,1.01
+Pakistan,All ships,3190,1.61
+Pakistan,Passenger ship,..,..
+Pakistan,Wet bulk,798,1.83
+Pakistan,Container ship,1393,1.2
+Pakistan,Dry breakbulk,168,1.35
+Pakistan,Dry bulk,599,3.47
+Pakistan,Roll-on/ roll-off ship,69,..
+Pakistan,Liquefied petroleum gas carriers,66,1.15
+Pakistan,Liquefied natural gas carriers,97,1.93
+Panama,All ships,7857,0.6
+Panama,Passenger ship,209,..
+Panama,Wet bulk,2713,0.49
+Panama,Container ship,3883,0.66
+Panama,Dry breakbulk,462,0.67
+Panama,Dry bulk,97,4.36
+Panama,Roll-on/ roll-off ship,427,..
+Panama,Liquefied petroleum gas carriers,66,1.48
+Panama,Liquefied natural gas carriers,..,..
+Papua New Guinea,All ships,2944,1.46
+Papua New Guinea,Passenger ship,582,..
+Papua New Guinea,Wet bulk,433,1.24
+Papua New Guinea,Container ship,646,1.55
+Papua New Guinea,Dry breakbulk,942,1.51
+Papua New Guinea,Dry bulk,241,2.03
+Papua New Guinea,Roll-on/ roll-off ship,..,..
+Papua New Guinea,Liquefied petroleum gas carriers,..,..
+Papua New Guinea,Liquefied natural gas carriers,100,1.35
+Paraguay,All ships,619,0.38
+Paraguay,Passenger ship,..,..
+Paraguay,Wet bulk,..,..
+Paraguay,Container ship,..,..
+Paraguay,Dry breakbulk,619,0.38
+Paraguay,Dry bulk,..,..
+Paraguay,Roll-on/ roll-off ship,..,..
+Paraguay,Liquefied petroleum gas carriers,..,..
+Paraguay,Liquefied natural gas carriers,..,..
+Peru,All ships,6911,0.82
+Peru,Passenger ship,60,..
+Peru,Wet bulk,2521,0.11
+Peru,Container ship,1619,0.84
+Peru,Dry breakbulk,594,0.83
+Peru,Dry bulk,1343,1.65
+Peru,Roll-on/ roll-off ship,229,..
+Peru,Liquefied petroleum gas carriers,488,0.19
+Peru,Liquefied natural gas carriers,57,1.1
+Philippines,All ships,37484,1.04
+Philippines,Passenger ship,16169,..
+Philippines,Wet bulk,3452,0.9
+Philippines,Container ship,4027,0.87
+Philippines,Dry breakbulk,9833,1.05
+Philippines,Dry bulk,1719,4.38
+Philippines,Roll-on/ roll-off ship,1841,..
+Philippines,Liquefied petroleum gas carriers,443,0.9
+Philippines,Liquefied natural gas carriers,..,..
+Poland,All ships,12689,1.3
+Poland,Passenger ship,4447,..
+Poland,Wet bulk,885,1.26
+Poland,Container ship,1791,0.7
+Poland,Dry breakbulk,4198,1.55
+Poland,Dry bulk,630,4.16
+Poland,Roll-on/ roll-off ship,525,..
+Poland,Liquefied petroleum gas carriers,187,0.98
+Poland,Liquefied natural gas carriers,26,1.24
+Portugal,All ships,13353,1.06
+Portugal,Passenger ship,1573,..
+Portugal,Wet bulk,2435,0.85
+Portugal,Container ship,3480,0.8
+Portugal,Dry breakbulk,3710,1.63
+Portugal,Dry bulk,532,2.83
+Portugal,Roll-on/ roll-off ship,1098,..
+Portugal,Liquefied petroleum gas carriers,477,0.96
+Portugal,Liquefied natural gas carriers,48,1.05
+Qatar,All ships,5707,1.11
+Qatar,Passenger ship,78,..
+Qatar,Wet bulk,1407,1.14
+Qatar,Container ship,1374,0.64
+Qatar,Dry breakbulk,315,1.88
+Qatar,Dry bulk,830,2.73
+Qatar,Roll-on/ roll-off ship,267,..
+Qatar,Liquefied petroleum gas carriers,344,1.21
+Qatar,Liquefied natural gas carriers,1092,1.07
+Republic of Moldova,All ships,107,3.32
+Republic of Moldova,Passenger ship,..,..
+Republic of Moldova,Wet bulk,12,2.1
+Republic of Moldova,Container ship,..,..
+Republic of Moldova,Dry breakbulk,95,3.44
+Republic of Moldova,Dry bulk,..,..
+Republic of Moldova,Roll-on/ roll-off ship,..,..
+Republic of Moldova,Liquefied petroleum gas carriers,..,..
+Republic of Moldova,Liquefied natural gas carriers,..,..
+Romania,All ships,5163,1.91
+Romania,Passenger ship,..,..
+Romania,Wet bulk,749,1.7
+Romania,Container ship,543,1
+Romania,Dry breakbulk,3003,1.79
+Romania,Dry bulk,715,5.41
+Romania,Roll-on/ roll-off ship,99,..
+Romania,Liquefied petroleum gas carriers,54,2.94
+Romania,Liquefied natural gas carriers,..,..
+Russian Federation,All ships,81187,1.33
+Russian Federation,Passenger ship,12976,..
+Russian Federation,Wet bulk,23399,1.04
+Russian Federation,Container ship,3886,1.4
+Russian Federation,Dry breakbulk,30312,1.56
+Russian Federation,Dry bulk,6498,2.5
+Russian Federation,Roll-on/ roll-off ship,3432,..
+Russian Federation,Liquefied petroleum gas carriers,423,1.34
+Russian Federation,Liquefied natural gas carriers,261,1.1
+Saint Kitts and Nevis,All ships,865,0.32
+Saint Kitts and Nevis,Passenger ship,430,..
+Saint Kitts and Nevis,Wet bulk,76,0.51
+Saint Kitts and Nevis,Container ship,..,..
+Saint Kitts and Nevis,Dry breakbulk,195,0.24
+Saint Kitts and Nevis,Dry bulk,..,..
+Saint Kitts and Nevis,Roll-on/ roll-off ship,164,..
+Saint Kitts and Nevis,Liquefied petroleum gas carriers,..,..
+Saint Kitts and Nevis,Liquefied natural gas carriers,..,..
+Saint Lucia,All ships,1191,0.55
+Saint Lucia,Passenger ship,417,..
+Saint Lucia,Wet bulk,335,0.77
+Saint Lucia,Container ship,137,0.4
+Saint Lucia,Dry breakbulk,264,0.46
+Saint Lucia,Dry bulk,..,..
+Saint Lucia,Roll-on/ roll-off ship,38,..
+Saint Lucia,Liquefied petroleum gas carriers,..,..
+Saint Lucia,Liquefied natural gas carriers,..,..
+Saint Vincent and the Grenadines,All ships,2186,0.3
+Saint Vincent and the Grenadines,Passenger ship,1860,..
+Saint Vincent and the Grenadines,Wet bulk,..,..
+Saint Vincent and the Grenadines,Container ship,114,0.28
+Saint Vincent and the Grenadines,Dry breakbulk,189,0.31
+Saint Vincent and the Grenadines,Dry bulk,..,..
+Saint Vincent and the Grenadines,Roll-on/ roll-off ship,23,..
+Saint Vincent and the Grenadines,Liquefied petroleum gas carriers,..,..
+Saint Vincent and the Grenadines,Liquefied natural gas carriers,..,..
+Samoa,All ships,171,0.57
+Samoa,Passenger ship,11,..
+Samoa,Wet bulk,..,..
+Samoa,Container ship,90,0.72
+Samoa,Dry breakbulk,70,0.38
+Samoa,Dry bulk,..,..
+Samoa,Roll-on/ roll-off ship,..,..
+Samoa,Liquefied petroleum gas carriers,..,..
+Samoa,Liquefied natural gas carriers,..,..
+Saudi Arabia,All ships,16951,1.29
+Saudi Arabia,Passenger ship,2813,..
+Saudi Arabia,Wet bulk,6525,1.46
+Saudi Arabia,Container ship,3669,0.76
+Saudi Arabia,Dry breakbulk,835,1.7
+Saudi Arabia,Dry bulk,1464,4.48
+Saudi Arabia,Roll-on/ roll-off ship,1208,..
+Saudi Arabia,Liquefied petroleum gas carriers,437,1.53
+Saudi Arabia,Liquefied natural gas carriers,..,..
+Senegal,All ships,2129,1.47
+Senegal,Passenger ship,217,..
+Senegal,Wet bulk,265,2.79
+Senegal,Container ship,543,0.64
+Senegal,Dry breakbulk,454,1.56
+Senegal,Dry bulk,353,5.45
+Senegal,Roll-on/ roll-off ship,247,..
+Senegal,Liquefied petroleum gas carriers,50,2.01
+Senegal,Liquefied natural gas carriers,..,..
+Seychelles,All ships,384,2.1
+Seychelles,Passenger ship,49,..
+Seychelles,Wet bulk,34,1.48
+Seychelles,Container ship,133,1.41
+Seychelles,Dry breakbulk,168,5.72
+Seychelles,Dry bulk,..,..
+Seychelles,Roll-on/ roll-off ship,..,..
+Seychelles,Liquefied petroleum gas carriers,..,..
+Seychelles,Liquefied natural gas carriers,..,..
+Sierra Leone,All ships,324,1.05
+Sierra Leone,Passenger ship,..,..
+Sierra Leone,Wet bulk,43,1.03
+Sierra Leone,Container ship,132,0.98
+Sierra Leone,Dry breakbulk,45,1.04
+Sierra Leone,Dry bulk,71,3.98
+Sierra Leone,Roll-on/ roll-off ship,33,..
+Sierra Leone,Liquefied petroleum gas carriers,..,..
+Sierra Leone,Liquefied natural gas carriers,..,..
+Singapore,All ships,61749,0.66
+Singapore,Passenger ship,1037,..
+Singapore,Wet bulk,36001,0.6
+Singapore,Container ship,17146,0.77
+Singapore,Dry breakbulk,2684,0.65
+Singapore,Dry bulk,2731,0.12
+Singapore,Roll-on/ roll-off ship,1436,..
+Singapore,Liquefied petroleum gas carriers,560,1.12
+Singapore,Liquefied natural gas carriers,154,2.22
+Sint Maarten (Dutch part),All ships,1040,0.54
+Sint Maarten (Dutch part),Passenger ship,500,..
+Sint Maarten (Dutch part),Wet bulk,83,0.56
+Sint Maarten (Dutch part),Container ship,159,0.64
+Sint Maarten (Dutch part),Dry breakbulk,298,0.51
+Sint Maarten (Dutch part),Dry bulk,..,..
+Sint Maarten (Dutch part),Roll-on/ roll-off ship,..,..
+Sint Maarten (Dutch part),Liquefied petroleum gas carriers,..,..
+Sint Maarten (Dutch part),Liquefied natural gas carriers,..,..
+Slovakia,All ships,226,..
+Slovakia,Passenger ship,226,..
+Slovakia,Wet bulk,..,..
+Slovakia,Container ship,..,..
+Slovakia,Dry breakbulk,..,..
+Slovakia,Dry bulk,..,..
+Slovakia,Roll-on/ roll-off ship,..,..
+Slovakia,Liquefied petroleum gas carriers,..,..
+Slovakia,Liquefied natural gas carriers,..,..
+Slovenia,All ships,1680,1.17
+Slovenia,Passenger ship,77,..
+Slovenia,Wet bulk,163,1.65
+Slovenia,Container ship,629,0.69
+Slovenia,Dry breakbulk,338,1.98
+Slovenia,Dry bulk,164,3.99
+Slovenia,Roll-on/ roll-off ship,309,..
+Slovenia,Liquefied petroleum gas carriers,..,..
+Slovenia,Liquefied natural gas carriers,..,..
+Solomon Islands,All ships,206,1.23
+Solomon Islands,Passenger ship,..,..
+Solomon Islands,Wet bulk,50,1.1
+Solomon Islands,Container ship,75,1.11
+Solomon Islands,Dry breakbulk,81,1.7
+Solomon Islands,Dry bulk,..,..
+Solomon Islands,Roll-on/ roll-off ship,..,..
+Solomon Islands,Liquefied petroleum gas carriers,..,..
+Solomon Islands,Liquefied natural gas carriers,..,..
+Somalia,All ships,548,2.96
+Somalia,Passenger ship,..,..
+Somalia,Wet bulk,56,2.94
+Somalia,Container ship,206,2.39
+Somalia,Dry breakbulk,179,4.88
+Somalia,Dry bulk,107,2.33
+Somalia,Roll-on/ roll-off ship,..,..
+Somalia,Liquefied petroleum gas carriers,..,..
+Somalia,Liquefied natural gas carriers,..,..
+South Africa,All ships,8510,1.92
+South Africa,Passenger ship,154,..
+South Africa,Wet bulk,1437,1.6
+South Africa,Container ship,2151,1.64
+South Africa,Dry breakbulk,836,2.26
+South Africa,Dry bulk,3220,2.24
+South Africa,Roll-on/ roll-off ship,576,..
+South Africa,Liquefied petroleum gas carriers,136,1.36
+South Africa,Liquefied natural gas carriers,..,..
+Spain,All ships,139717,0.86
+Spain,Passenger ship,80391,..
+Spain,Wet bulk,14882,0.84
+Spain,Container ship,14915,0.66
+Spain,Dry breakbulk,13656,1.14
+Spain,Dry bulk,3139,2.27
+Spain,Roll-on/ roll-off ship,11088,..
+Spain,Liquefied petroleum gas carriers,1400,0.96
+Spain,Liquefied natural gas carriers,246,1.05
+Sri Lanka,All ships,5862,0.97
+Sri Lanka,Passenger ship,107,..
+Sri Lanka,Wet bulk,986,2.22
+Sri Lanka,Container ship,3736,0.85
+Sri Lanka,Dry breakbulk,307,1.25
+Sri Lanka,Dry bulk,338,3.22
+Sri Lanka,Roll-on/ roll-off ship,251,..
+Sri Lanka,Liquefied petroleum gas carriers,137,1.13
+Sri Lanka,Liquefied natural gas carriers,..,..
+Sudan,All ships,1071,2.78
+Sudan,Passenger ship,135,..
+Sudan,Wet bulk,203,1.52
+Sudan,Container ship,182,4.31
+Sudan,Dry breakbulk,187,1.71
+Sudan,Dry bulk,112,11.25
+Sudan,Roll-on/ roll-off ship,236,..
+Sudan,Liquefied petroleum gas carriers,16,2.19
+Sudan,Liquefied natural gas carriers,..,..
+Suriname,All ships,863,1.05
+Suriname,Passenger ship,..,..
+Suriname,Wet bulk,176,1.51
+Suriname,Container ship,155,1.02
+Suriname,Dry breakbulk,419,1.26
+Suriname,Dry bulk,113,1.36
+Suriname,Roll-on/ roll-off ship,..,..
+Suriname,Liquefied petroleum gas carriers,..,..
+Suriname,Liquefied natural gas carriers,..,..
+Sweden,All ships,79238,0.8
+Sweden,Passenger ship,53777,..
+Sweden,Wet bulk,7143,0.68
+Sweden,Container ship,2161,0.63
+Sweden,Dry breakbulk,10938,1.04
+Sweden,Dry bulk,1443,0.51
+Sweden,Roll-on/ roll-off ship,2928,..
+Sweden,Liquefied petroleum gas carriers,741,0.82
+Sweden,Liquefied natural gas carriers,107,0.61
+"Switzerland, Liechtenstein",All ships,394,0.23
+"Switzerland, Liechtenstein",Passenger ship,..,..
+"Switzerland, Liechtenstein",Wet bulk,394,0.23
+"Switzerland, Liechtenstein",Container ship,..,..
+"Switzerland, Liechtenstein",Dry breakbulk,..,..
+"Switzerland, Liechtenstein",Dry bulk,..,..
+"Switzerland, Liechtenstein",Roll-on/ roll-off ship,..,..
+"Switzerland, Liechtenstein",Liquefied petroleum gas carriers,..,..
+"Switzerland, Liechtenstein",Liquefied natural gas carriers,..,..
+Syrian Arab Republic,All ships,403,1.11
+Syrian Arab Republic,Passenger ship,..,..
+Syrian Arab Republic,Wet bulk,..,..
+Syrian Arab Republic,Container ship,226,0.87
+Syrian Arab Republic,Dry breakbulk,135,4.98
+Syrian Arab Republic,Dry bulk,18,4.91
+Syrian Arab Republic,Roll-on/ roll-off ship,24,..
+Syrian Arab Republic,Liquefied petroleum gas carriers,..,..
+Syrian Arab Republic,Liquefied natural gas carriers,..,..
+Thailand,All ships,26511,0.78
+Thailand,Passenger ship,305,..
+Thailand,Wet bulk,11420,0.68
+Thailand,Container ship,7874,0.79
+Thailand,Dry breakbulk,3326,1.59
+Thailand,Dry bulk,907,3.07
+Thailand,Roll-on/ roll-off ship,692,..
+Thailand,Liquefied petroleum gas carriers,1931,0.57
+Thailand,Liquefied natural gas carriers,56,1.23
+Timor-Leste,All ships,154,1
+Timor-Leste,Passenger ship,..,..
+Timor-Leste,Wet bulk,..,..
+Timor-Leste,Container ship,..,..
+Timor-Leste,Dry breakbulk,154,1
+Timor-Leste,Dry bulk,..,..
+Timor-Leste,Roll-on/ roll-off ship,..,..
+Timor-Leste,Liquefied petroleum gas carriers,..,..
+Timor-Leste,Liquefied natural gas carriers,..,..
+Togo,All ships,1296,1.33
+Togo,Passenger ship,..,..
+Togo,Wet bulk,129,1.72
+Togo,Container ship,756,1.17
+Togo,Dry breakbulk,104,1.28
+Togo,Dry bulk,127,3.33
+Togo,Roll-on/ roll-off ship,180,..
+Togo,Liquefied petroleum gas carriers,..,..
+Togo,Liquefied natural gas carriers,..,..
+Tonga,All ships,287,0.52
+Tonga,Passenger ship,136,..
+Tonga,Wet bulk,..,..
+Tonga,Container ship,72,0.6
+Tonga,Dry breakbulk,79,0.45
+Tonga,Dry bulk,..,..
+Tonga,Roll-on/ roll-off ship,..,..
+Tonga,Liquefied petroleum gas carriers,..,..
+Tonga,Liquefied natural gas carriers,..,..
+Trinidad and Tobago,All ships,4619,1
+Trinidad and Tobago,Passenger ship,1326,..
+Trinidad and Tobago,Wet bulk,1237,1.01
+Trinidad and Tobago,Container ship,688,0.62
+Trinidad and Tobago,Dry breakbulk,682,0.8
+Trinidad and Tobago,Dry bulk,113,2.48
+Trinidad and Tobago,Roll-on/ roll-off ship,102,..
+Trinidad and Tobago,Liquefied petroleum gas carriers,258,1.26
+Trinidad and Tobago,Liquefied natural gas carriers,213,1.16
+Tunisia,All ships,3891,2.41
+Tunisia,Passenger ship,768,..
+Tunisia,Wet bulk,400,1.63
+Tunisia,Container ship,344,3.8
+Tunisia,Dry breakbulk,1214,2.2
+Tunisia,Dry bulk,303,6.45
+Tunisia,Roll-on/ roll-off ship,755,..
+Tunisia,Liquefied petroleum gas carriers,107,1.98
+Tunisia,Liquefied natural gas carriers,..,..
+Turkey,All ships,184169,1.19
+Turkey,Passenger ship,136681,..
+Turkey,Wet bulk,6873,1.11
+Turkey,Container ship,10485,0.63
+Turkey,Dry breakbulk,19404,1.52
+Turkey,Dry bulk,3799,4
+Turkey,Roll-on/ roll-off ship,6154,..
+Turkey,Liquefied petroleum gas carriers,683,1.36
+Turkey,Liquefied natural gas carriers,90,1.31
+Turkmenistan,All ships,1720,1.21
+Turkmenistan,Passenger ship,417,..
+Turkmenistan,Wet bulk,892,1.13
+Turkmenistan,Container ship,..,..
+Turkmenistan,Dry breakbulk,194,2.61
+Turkmenistan,Dry bulk,44,1.09
+Turkmenistan,Roll-on/ roll-off ship,173,..
+Turkmenistan,Liquefied petroleum gas carriers,..,..
+Turkmenistan,Liquefied natural gas carriers,..,..
+Turks and Caicos Islands,All ships,602,0.45
+Turks and Caicos Islands,Passenger ship,332,..
+Turks and Caicos Islands,Wet bulk,..,..
+Turks and Caicos Islands,Container ship,..,..
+Turks and Caicos Islands,Dry breakbulk,270,0.45
+Turks and Caicos Islands,Dry bulk,..,..
+Turks and Caicos Islands,Roll-on/ roll-off ship,..,..
+Turks and Caicos Islands,Liquefied petroleum gas carriers,..,..
+Turks and Caicos Islands,Liquefied natural gas carriers,..,..
+Tuvalu,All ships,72,13.99
+Tuvalu,Passenger ship,..,..
+Tuvalu,Wet bulk,..,..
+Tuvalu,Container ship,..,..
+Tuvalu,Dry breakbulk,72,13.99
+Tuvalu,Dry bulk,..,..
+Tuvalu,Roll-on/ roll-off ship,..,..
+Tuvalu,Liquefied petroleum gas carriers,..,..
+Tuvalu,Liquefied natural gas carriers,..,..
+Ukraine,All ships,19764,2.13
+Ukraine,Passenger ship,9350,..
+Ukraine,Wet bulk,627,2.21
+Ukraine,Container ship,696,0.83
+Ukraine,Dry breakbulk,4890,1.71
+Ukraine,Dry bulk,2569,3.59
+Ukraine,Roll-on/ roll-off ship,1432,..
+Ukraine,Liquefied petroleum gas carriers,200,1.21
+Ukraine,Liquefied natural gas carriers,..,..
+United Arab Emirates,All ships,24150,1.1
+United Arab Emirates,Passenger ship,2264,..
+United Arab Emirates,Wet bulk,8049,1.06
+United Arab Emirates,Container ship,7111,0.91
+United Arab Emirates,Dry breakbulk,2468,1.06
+United Arab Emirates,Dry bulk,2634,1.93
+United Arab Emirates,Roll-on/ roll-off ship,1152,..
+United Arab Emirates,Liquefied petroleum gas carriers,368,1.31
+United Arab Emirates,Liquefied natural gas carriers,104,1.42
+United Republic of Tanzania,All ships,1822,2.15
+United Republic of Tanzania,Passenger ship,397,..
+United Republic of Tanzania,Wet bulk,236,3.84
+United Republic of Tanzania,Container ship,475,2.14
+United Republic of Tanzania,Dry breakbulk,360,1.47
+United Republic of Tanzania,Dry bulk,145,3.85
+United Republic of Tanzania,Roll-on/ roll-off ship,209,..
+United Republic of Tanzania,Liquefied petroleum gas carriers,..,..
+United Republic of Tanzania,Liquefied natural gas carriers,..,..
+Uruguay,All ships,4942,1.39
+Uruguay,Passenger ship,3205,..
+Uruguay,Wet bulk,215,1.27
+Uruguay,Container ship,522,0.9
+Uruguay,Dry breakbulk,481,1.62
+Uruguay,Dry bulk,378,3.31
+Uruguay,Roll-on/ roll-off ship,141,..
+Uruguay,Liquefied petroleum gas carriers,..,..
+Uruguay,Liquefied natural gas carriers,..,..
+Vanuatu,All ships,273,0.85
+Vanuatu,Passenger ship,142,..
+Vanuatu,Wet bulk,..,..
+Vanuatu,Container ship,93,0.93
+Vanuatu,Dry breakbulk,38,0.68
+Vanuatu,Dry bulk,..,..
+Vanuatu,Roll-on/ roll-off ship,..,..
+Vanuatu,Liquefied petroleum gas carriers,..,..
+Vanuatu,Liquefied natural gas carriers,..,..
+Venezuela (Bolivarian Rep. of),All ships,5251,2.25
+Venezuela (Bolivarian Rep. of),Passenger ship,1257,..
+Venezuela (Bolivarian Rep. of),Wet bulk,2375,2.38
+Venezuela (Bolivarian Rep. of),Container ship,168,2.37
+Venezuela (Bolivarian Rep. of),Dry breakbulk,436,1.88
+Venezuela (Bolivarian Rep. of),Dry bulk,594,2.16
+Venezuela (Bolivarian Rep. of),Roll-on/ roll-off ship,111,..
+Venezuela (Bolivarian Rep. of),Liquefied petroleum gas carriers,310,1.53
+Venezuela (Bolivarian Rep. of),Liquefied natural gas carriers,..,..
+Viet Nam,All ships,7576,1.3
+Viet Nam,Passenger ship,164,..
+Viet Nam,Wet bulk,735,2.22
+Viet Nam,Container ship,4391,0.97
+Viet Nam,Dry breakbulk,1171,3.41
+Viet Nam,Dry bulk,868,4.23
+Viet Nam,Roll-on/ roll-off ship,..,..
+Viet Nam,Liquefied petroleum gas carriers,247,1.84
+Viet Nam,Liquefied natural gas carriers,..,..
+Yemen,All ships,941,4.12
+Yemen,Passenger ship,..,..
+Yemen,Wet bulk,284,2.87
+Yemen,Container ship,187,3.62
+Yemen,Dry breakbulk,186,5.62
+Yemen,Dry bulk,284,5.87
+Yemen,Roll-on/ roll-off ship,..,..
+Yemen,Liquefied petroleum gas carriers,..,..
+Yemen,Liquefied natural gas carriers,..,..
+Antarctica,All ships,12,..
+Antarctica,Passenger ship,12,..
+Antarctica,Wet bulk,..,..
+Antarctica,Container ship,..,..
+Antarctica,Dry breakbulk,..,..
+Antarctica,Dry bulk,..,..
+Antarctica,Roll-on/ roll-off ship,..,..
+Antarctica,Liquefied petroleum gas carriers,..,..
+Antarctica,Liquefied natural gas carriers,..,..
+France,All ships,68739,1.11
+France,Passenger ship,44062,..
+France,Wet bulk,7830,1.06
+France,Container ship,4640,0.75
+France,Dry breakbulk,7300,1.5
+France,Dry bulk,1580,3.14
+France,Roll-on/ roll-off ship,1963,..
+France,Liquefied petroleum gas carriers,1132,1.07
+France,Liquefied natural gas carriers,232,1.2
+Mayotte,All ships,135,2.22
+Mayotte,Passenger ship,..,..
+Mayotte,Wet bulk,..,..
+Mayotte,Container ship,61,2.09
+Mayotte,Dry breakbulk,74,2.42
+Mayotte,Dry bulk,..,..
+Mayotte,Roll-on/ roll-off ship,..,..
+Mayotte,Liquefied petroleum gas carriers,..,..
+Mayotte,Liquefied natural gas carriers,..,..
+French Guiana,All ships,135,2.56
+French Guiana,Passenger ship,..,..
+French Guiana,Wet bulk,..,..
+French Guiana,Container ship,65,3.53
+French Guiana,Dry breakbulk,70,1.55
+French Guiana,Dry bulk,..,..
+French Guiana,Roll-on/ roll-off ship,..,..
+French Guiana,Liquefied petroleum gas carriers,..,..
+French Guiana,Liquefied natural gas carriers,..,..
+Guadeloupe,All ships,1072,0.71
+Guadeloupe,Passenger ship,233,..
+Guadeloupe,Wet bulk,149,0.91
+Guadeloupe,Container ship,235,0.7
+Guadeloupe,Dry breakbulk,200,0.5
+Guadeloupe,Dry bulk,32,2.98
+Guadeloupe,Roll-on/ roll-off ship,223,..
+Guadeloupe,Liquefied petroleum gas carriers,..,..
+Guadeloupe,Liquefied natural gas carriers,..,..
+Martinique,All ships,926,0.63
+Martinique,Passenger ship,222,..
+Martinique,Wet bulk,194,1.04
+Martinique,Container ship,189,0.67
+Martinique,Dry breakbulk,212,0.39
+Martinique,Dry bulk,..,..
+Martinique,Roll-on/ roll-off ship,109,..
+Martinique,Liquefied petroleum gas carriers,..,..
+Martinique,Liquefied natural gas carriers,..,..
+Monaco,All ships,120,..
+Monaco,Passenger ship,120,..
+Monaco,Wet bulk,..,..
+Monaco,Container ship,..,..
+Monaco,Dry breakbulk,..,..
+Monaco,Dry bulk,..,..
+Monaco,Roll-on/ roll-off ship,..,..
+Monaco,Liquefied petroleum gas carriers,..,..
+Monaco,Liquefied natural gas carriers,..,..
+R�union,All ships,578,1
+R�union,Passenger ship,38,..
+R�union,Wet bulk,33,2.54
+R�union,Container ship,374,0.77
+R�union,Dry breakbulk,60,1.5
+R�union,Dry bulk,35,4.05
+R�union,Roll-on/ roll-off ship,38,..
+R�union,Liquefied petroleum gas carriers,..,..
+R�union,Liquefied natural gas carriers,..,..
+United Kingdom,All ships,193462,1.09
+United Kingdom,Passenger ship,135259,..
+United Kingdom,Wet bulk,12329,1.06
+United Kingdom,Container ship,8355,0.73
+United Kingdom ,Dry breakbulk,17646,1.46
+United Kingdom ,Dry bulk,1800,2.73
+United Kingdom,Roll-on/ roll-off ship,15870,..
+United Kingdom,Liquefied petroleum gas carriers,2086,1.08
+United Kingdom,Liquefied natural gas carriers,117,1.43
+Guernsey,All ships,208,0.12
+Guernsey,Passenger ship,..,..
+Guernsey,Wet bulk,..,..
+Guernsey,Container ship,..,..
+Guernsey,Dry breakbulk,208,0.12
+Guernsey,Dry bulk,..,..
+Guernsey,Roll-on/ roll-off ship,..,..
+Guernsey,Liquefied petroleum gas carriers,..,..
+Guernsey,Liquefied natural gas carriers,..,..
+Isle of Man,All ships,544,0.53
+Isle of Man,Passenger ship,516,..
+Isle of Man,Wet bulk,28,0.53
+Isle of Man,Container ship,..,..
+Isle of Man,Dry breakbulk,..,..
+Isle of Man,Dry bulk,..,..
+Isle of Man,Roll-on/ roll-off ship,..,..
+Isle of Man,Liquefied petroleum gas carriers,..,..
+Isle of Man,Liquefied natural gas carriers,..,..
+United States of America ,All ships,280332,1.41
+United States of America ,Passenger ship,207847,..
+United States of America,Wet bulk,21248,1.64
+United States of America,Container ship,19098,1
+United States of America ,Dry breakbulk,7029,1.79
+United States of America,Dry bulk,15640,1.84
+United States of America ,Roll-on/ roll-off ship,7308,..
+United States of America,Liquefied petroleum gas carriers,1718,2.03
+United States of America,Liquefied natural gas carriers,444,1.28
+Puerto Rico,All ships,2216,1.07
+Puerto Rico,Passenger ship,689,..
+Puerto Rico,Wet bulk,373,2.01
+Puerto Rico,Container ship,389,1.03
+Puerto Rico,Dry breakbulk,330,0.5
+Puerto Rico,Dry bulk,70,2.19
+Puerto Rico,Roll-on/ roll-off ship,295,..
+Puerto Rico,Liquefied petroleum gas carriers,44,1.4
+Puerto Rico,Liquefied natural gas carriers,26,1.3
+United States Virgin Islands,All ships,1881,0.75
+United States Virgin Islands,Passenger ship,479,..
+United States Virgin Islands,Wet bulk,390,1.63
+United States Virgin Islands,Container ship,330,0.63
+United States Virgin Islands,Dry breakbulk,657,0.48
+United States Virgin Islands,Dry bulk,..,..
+United States Virgin Islands,Roll-on/ roll-off ship,..,..
+United States Virgin Islands,Liquefied petroleum gas carriers,25,1.2
+United States Virgin Islands,Liquefied natural gas carriers,..,..
