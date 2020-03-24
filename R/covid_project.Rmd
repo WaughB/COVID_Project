@@ -1,10 +1,21 @@
-# Brett W.
-# 22 March 2020.
-# Kaggle Competition - COVID19 Global Forecasting (Week 1)
-# Objective: To illuminate factors that contribute to the spread of COVID-19.
-# Secondary Objective: To predict fatalities of COVID-19.
+---
+title: "Covid-19_Project"
+author: "brett"
+date: "3/23/2020"
+output: html_document
+---
 
-##### Necessary libraries. #####
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# COVID-19 Project
+Predicting the number of cases and fatalities, highlighting features that help do so. 
+
+## Setup.
+
+Essential libraries. 
+```{r libraries}
 library(readr)
 library(readxl)
 library(tidyr)
@@ -14,9 +25,13 @@ library(e1071)
 library(countrycode)
 library(randomForest)
 library(Metrics)
+```
 
-##### Import the datasets. #####
+## Import the datasets. 
 
+### Original data
+The original datasets, train and test, are loaded in. I did not find the data from the original datasets to be enough to derive meaningful conclusions. 
+```{r initialData}
 ##### Import train dataset. #####
 # Taken from: https://www.kaggle.com/c/covid19-global-forecasting-week-1/data
 train <- read_csv(
@@ -65,9 +80,12 @@ smaller_test <- test %>%
     date = Date,
     code = code
   )
+```
 
-##### Gather additional data. #####
-
+### Additional data
+The original data provided was not satisfactory for this project, so additional data needed to be added.
+This additional data stems from three categories: drugs, transportation, and demographics.
+```{r additionalData}
 ##### Add alcohol use.#####
 # Taken from: https://ourworldindata.org/alcohol-consumption
 alcohol_consumption <-
@@ -209,9 +227,10 @@ population_65_and_older <-
 
 older_population <- population_65_and_older %>%
   select(code, percentage_65_and_older)
+```
 
-##### Combine train dataset with additional data. #####
-
+## Combine the original and additional data
+```{r combinedData}
 # Combine the data using the country codes.
 
 temp1 <-
@@ -296,8 +315,12 @@ final_test <- final_test %>%
     prisoner_rate
   ) %>% arrange(code, date)
 
-##### Determine important features #####
+```
 
+## Feature selection
+
+Not all of the additional fields will prove to be useful. Through testing on a linear model and random forest, the features that are appropriate to keep in will be more obvious. 
+```{r featureSelection}
 # Standard formula relating all features from final training set. 
 deaths_form <- deaths ~ date+cases+alcohol_consumption+drug_use+amphetamine_death_rate+cocaine_death_rate+cigarette_consumption+opioid_death_rate+percentage_65_and_older+number_of_arrivals+median_time_in_port_days+airports+prisoner_count+prisoner_rate
 
@@ -312,16 +335,44 @@ cases_form <- cases ~ date+deaths+alcohol_consumption+drug_use+amphetamine_death
 cases_linTest <- lm(cases_form, final_train)
 summary(cases_linTest)
 
-##### SVM Modeling #####
+```
+Features important to fatalities:
+* date
+* cases
+* alcohol_consumption
+* amphetamine_death_rate
+* cigarette_consumption
+* percentage_65_and_older
+* median_time_in_port_days
+* prisoner_count
+* prisoner_rate
 
+Features important to confirmed cases:
+* date
+* deaths
+* alcohol_consumption
+* drug_use
+* amphetamine_death_rate
+* cigarette_consumption
+* number_of_arrivals
+* median_time_in_port_days
+* airports
+* prisoner_count
+* prisoner_rate
+
+
+## Modeling
+
+I chose an SVM model for this problem. The grid search option for an SVM is a great tool to use when dealing with datasets with a large number of features. The benefits being typically a higher performing model, with the downsides being it usually takes more resources to run. 
+```{r svmModel}
 # Recreate formulas with relevant features only.
 deaths_form_final <-
-  deaths ~ date + alcohol_consumption + amphetamine_death_rate +
+  deaths ~ date + cases + alcohol_consumption + amphetamine_death_rate +
   cigarette_consumption + percentage_65_and_older + median_time_in_port_days +
   prisoner_count + prisoner_rate
 
 cases_form_final <-
-  cases ~ date + alcohol_consumption + drug_use + amphetamine_death_rate +
+  cases ~ date + deaths + alcohol_consumption + drug_use + amphetamine_death_rate +
   cigarette_consumption + number_of_arrivals + median_time_in_port_days +
   airports + prisoner_count + prisoner_rate
 
@@ -386,9 +437,11 @@ cases_tune <- tune(
     error.fun = NULL
   )
 )
+```
 
-##### Predictions #####
+## Apply the SVM to the test dataset. 
 
+```{r testSet}
 # Place to store the results. 
 results <- list()
 
@@ -401,14 +454,20 @@ results$Fatalities <- predict(deaths_svm, newdata = test)
 # Confirmed cases
 results$ConfirmedCases <- predict(cases_svm, newdata = test)
 
-##### RMSEL #####
+```
 
+## View the results. 
+
+```{r viewingResults}
 # RMSLE for SVM predicting fatalities. 
 deaths_rmsle <- rmsle(testing$Fatalities, results$Fatalities)
 
 # RMSLE for SVM predicting confirmed cases. 
 cases_rmsle <- rmsle(testing$ConfirmedCases, results$ConfirmedCases)
+```
 
-##### Output #####
+## Write the output to a file. 
 
+```{r output}
 write.csv(results, file = "results.csv", row.names = FALSE)
+```
