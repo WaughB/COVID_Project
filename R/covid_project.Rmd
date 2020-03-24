@@ -367,12 +367,12 @@ I chose an SVM model for this problem. The grid search option for an SVM is a gr
 ```{r svmModel}
 # Recreate formulas with relevant features only.
 deaths_form_final <-
-  deaths ~ date + cases + alcohol_consumption + amphetamine_death_rate +
+  deaths ~ date + alcohol_consumption + amphetamine_death_rate +
   cigarette_consumption + percentage_65_and_older + median_time_in_port_days +
   prisoner_count + prisoner_rate
 
 cases_form_final <-
-  cases ~ date + deaths + alcohol_consumption + drug_use + amphetamine_death_rate +
+  cases ~ date + alcohol_consumption + drug_use + amphetamine_death_rate +
   cigarette_consumption + number_of_arrivals + median_time_in_port_days +
   airports + prisoner_count + prisoner_rate
 
@@ -446,13 +446,13 @@ cases_tune <- tune(
 results <- list()
 
 # Place ForcastId in results.
-results$ForcastId <- test$ForcastId
+results$ForcastId <- test$ForecastId
 
 # Deaths
-results$Fatalities <- predict(deaths_svm, newdata = test)
+results$Fatalities <- predict(deaths_tune, newdata = test)
 
 # Confirmed cases
-results$ConfirmedCases <- predict(cases_svm, newdata = test)
+results$ConfirmedCases <- predict(cases_tune, newdata = test)
 
 ```
 
@@ -461,9 +461,11 @@ results$ConfirmedCases <- predict(cases_svm, newdata = test)
 ```{r viewingResults}
 # RMSLE for SVM predicting fatalities. 
 deaths_rmsle <- rmsle(testing$Fatalities, results$Fatalities)
+deaths_rmsle
 
 # RMSLE for SVM predicting confirmed cases. 
 cases_rmsle <- rmsle(testing$ConfirmedCases, results$ConfirmedCases)
+cases_rmsle
 ```
 
 ## Write the output to a file. 

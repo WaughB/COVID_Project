@@ -393,21 +393,23 @@ cases_tune <- tune(
 results <- list()
 
 # Place ForcastId in results.
-results$ForcastId <- test$ForcastId
+results$ForcastId <- test$ForecastId
 
 # Deaths
-results$Fatalities <- predict(deaths_svm, newdata = test)
+results$Fatalities <- predict(deaths_tune, newdata = test)
 
 # Confirmed cases
-results$ConfirmedCases <- predict(cases_svm, newdata = test)
+results$ConfirmedCases <- predict(cases_tune, newdata = test)
 
 ##### RMSEL #####
 
 # RMSLE for SVM predicting fatalities. 
 deaths_rmsle <- rmsle(testing$Fatalities, results$Fatalities)
+deaths_rmsle
 
 # RMSLE for SVM predicting confirmed cases. 
 cases_rmsle <- rmsle(testing$ConfirmedCases, results$ConfirmedCases)
+cases_rmsle
 
 ##### Output #####
 
