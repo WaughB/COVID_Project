@@ -8,22 +8,22 @@ I found that just the original dataset left much to be desired. I included addit
 
 
 ### Original 
-[Data](https://www.kaggle.com/c/covid19-global-forecasting-week-1/data)
+* [Data](https://www.kaggle.com/c/covid19-global-forecasting-week-1/data)
 
 ### Additional
 
-[Alcohol use](https://ourworldindata.org/alcohol-consumption)
-[Drug use](https://ourworldindata.org/illicit-drug-use)
-[Opioid death rate](https://ourworldindata.org/illicit-drug-use)
-[Amphetamine death rate](https://ourworldindata.org/illicit-drug-us)
-[Cigerette consumption](https://ourworldindata.org/smoking)
-[Cocaine death rate](https://ourworldindata.org/illicit-drug-use)
+* [Alcohol use](https://ourworldindata.org/alcohol-consumption)
+* [Drug use](https://ourworldindata.org/illicit-drug-use)
+* [Opioid death rate](https://ourworldindata.org/illicit-drug-use)
+* [Amphetamine death rate](https://ourworldindata.org/illicit-drug-us)
+* [Cigerette consumption](https://ourworldindata.org/smoking)
+* [Cocaine death rate](https://ourworldindata.org/illicit-drug-use)
 
-[Number of persons 65+](https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS)
-[Prisoner information](https://dataunodc.un.org/crime/total-prison-population)
+* [Number of persons 65+](https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS)
+* [Prisoner information](https://dataunodc.un.org/crime/total-prison-population)
 
-[Port information](https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=170027)
-[Airport information](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2053rank.html) 
+* [Port information](https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=170027)
+* [Airport information](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2053rank.html) 
 
 ## Methodology
 
